@@ -1,7 +1,9 @@
 # Blog Generation Project
 
 This project uses large language models (LLMs) to generate high-quality blog content with a Streamlit web interface. It supports multiple efficient open-source models and provides a simple way to download and use them.
+Check out this video to understand how my project works:
 
+[![How it works](3.mp4)]
 ## Main Files
 
 ### 1. app.py
